@@ -10,3 +10,4 @@ data:
   asset-reports.json: '{{ toJson .Values.global.assetReports.reports }}'
 {{- end -}}
 {{- end -}}
+
